@@ -9,10 +9,8 @@ public class Conversao {
         System.out.println("digite seu primeiro salario ");
         String n1 = leia.nextLine();
 
-
         System.out.println("digite seu segundo salario ");
         String n2 = leia.nextLine();
-
 
         System.out.println("digite seu terceiro salario ");
         String n3 = leia.nextLine();

@@ -19,6 +19,7 @@ public class Conversao {
         String v1 = JOptionPane.showInputDialog(
             "Digite o primeiro número");
 
+        System.out.println(v1);
 
 
 
