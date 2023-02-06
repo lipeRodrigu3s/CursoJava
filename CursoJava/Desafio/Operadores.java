@@ -1,4 +1,4 @@
-package Desafios;
+package Desafio;
 
 public class Operadores {
     public static void main(String[] args) {
